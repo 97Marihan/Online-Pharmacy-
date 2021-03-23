@@ -1,0 +1,25 @@
+Login emails and passwords stored in files and collections:
+
+Customer
+Mariam@gmail.net
+mariam12!
+
+Ali@gmail.com
+ali12345
+
+or sign up  with as new customer and be stored to log in anytime
+
+Admin
+Nadas@gmail.com
+helloWo!
+
+IbraAli@yahoo.com
+ibra123!
+
+Delivery
+Abdoo12z@yahoo.com
+abdo123!
+
+main run file is Welcome Screen
+online pharmacy main Class works as a backup for the pharmacy to be written in files
+
